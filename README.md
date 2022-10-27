@@ -1,4 +1,4 @@
-Hey, Or from Israel 👋 
+Hey there! I'm Or from Israel👋 
 I'm A fullstack programer 🐙
 
 visit my site = ( ) => https://or-mizrahi.netlify.app
