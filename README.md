@@ -1,7 +1,5 @@
 Hey there! I'm Or from Israel👋 
-I'm A .NET & Fullstack programer 🐙
-
-visit my site = ( ) => https://or-mizrahi.netlify.app
+I'm A .NET & Fullstack programmer | Data scientist  🐙
 
 Email ✉️
 ormizrahi1610@gmail.com
